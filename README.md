@@ -1,4 +1,4 @@
-# hello hello!
+### hello hello!
 
 - 🧸 Hello! My name is Megan, and I am a MS/BS bioinformatics student at UCLA!
 - 🍯 **Currently learning:** NGS analysis, machine learning applications for sequencing data, network biology
