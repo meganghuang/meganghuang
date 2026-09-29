@@ -3,7 +3,7 @@
 - 🧸 Hello! My name is Megan, and I am a MS/BS bioinformatics student at UCLA!
 - 🍯 **Currently learning:** NGS analysis, machine learning applications for sequencing data, network biology
 - 🍵 **Languages:** Python, R, C++, SQL
-- 🫖 **Love:** Design, illustration, osmanthus oolong tea
+- 🫖 **Love:** Design, illustration, side questing, and of course, osmanthus oolong milk tea
 <!--
 **meganghuang/meganghuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
